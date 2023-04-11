@@ -1,0 +1,26 @@
+{
+  "name": "moon-tempo",
+  "version": "1.0.0",
+  "description": "This is a library to facilitate you to get the difference between dates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azbito/moon-tempo.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "utility",
+    "library",
+    "javascript"
+  ],
+  "author": "Azbito (Thiago Roque)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azbito/moon-tempo/issues"
+  },
+  "homepage": "https://github.com/Azbito/moon-tempo#readme"
+}
