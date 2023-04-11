@@ -73,8 +73,6 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/330/330490.png" alt="English" width="40">
 
-<p>Esta biblioteca te ajudará a pegar a diferença entre datas.</p>
-
 <p>Ceci est une bibliothèque qui vous aidera à faire la différence entre deux dates.</p>
 
 ### Comment utiliser:
