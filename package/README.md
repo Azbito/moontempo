@@ -1,12 +1,8 @@
 <div align="center">
 
-# moon-tempo (Javascript)
+<img src="https://cdn.discordapp.com/attachments/1049058606181535795/1095451352378908782/moontempo_logo.png" width="50" alt="logo">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="50">
-
-<br>
-
-#
+# moon-tempo <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="20">
 
 <img src="https://cdn-icons-png.flaticon.com/512/8281/8281549.png" alt="English" width="40">
 <p>This library will help you to get the difference of time between dates.</p>
@@ -73,8 +69,6 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/330/330490.png" alt="English" width="40">
 
-<p>Esta biblioteca te ajudará a pegar a diferença entre datas.</p>
-
 <p>Ceci est une bibliothèque qui vous aidera à faire la différence entre deux dates.</p>
 
 ### Comment utiliser:
@@ -100,8 +94,8 @@
 ### Est-ce une année bissextile ?
 
 <p>Pour savoir de ces information, vous devez exécuter cette fonction:</p>
-<p>console.log(isLeapYear(2020)) // returna true</p>
-<p>console.log(isLeapYear(2023)) // returna false</p>
+<p>console.log(isLeapYear(2020)) // retourne true</p>
+<p>console.log(isLeapYear(2023)) // retourne false</p>
 
 #
 

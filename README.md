@@ -94,8 +94,8 @@
 ### Est-ce une année bissextile ?
 
 <p>Pour savoir de ces information, vous devez exécuter cette fonction:</p>
-<p>console.log(isLeapYear(2020)) // returna true</p>
-<p>console.log(isLeapYear(2023)) // returna false</p>
+<p>console.log(isLeapYear(2020)) // retourne true</p>
+<p>console.log(isLeapYear(2023)) // retourne false</p>
 
 #
 
