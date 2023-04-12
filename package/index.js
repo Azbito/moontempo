@@ -27,10 +27,10 @@ function getMonthsPassed(dateCompared) {
     throw new Error('Invalid date')
   }
 
-  const isLeapYear =
+  const leapYear =
     currentYear % 4 === 0 &&
     (currentYear % 100 !== 0 || currentYear % 400 === 0)
-  const februaryDays = isLeapYear ? 29 : 28
+  const februaryDays = leapYear ? 29 : 28
   const monthsDays = [31, februaryDays, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
   let totalDays = Math.floor(diff / (1000 * 60 * 60 * 24))
