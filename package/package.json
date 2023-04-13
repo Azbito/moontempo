@@ -1,6 +1,6 @@
 {
   "name": "moontempo",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This is a library to facilitate you to get the difference between dates.",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/Azbito/moon-tempo/issues"
   },
-  "homepage": "https://github.com/Azbito/moon-tempo#readme"
+  "homepage": "https://github.com/Azbito/moon-tempo#readme",
+  "readme": "README.md"
 }
