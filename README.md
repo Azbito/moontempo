@@ -2,7 +2,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1049058606181535795/1095451352378908782/moontempo_logo.png" width="50">
 
-# moon-tempo <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="20">
+# moontempo <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="20">
 
 <img src="https://cdn-icons-png.flaticon.com/512/8281/8281549.png" alt="English" width="40">
 <p>This library will help you to get the difference of time between dates.</p>
