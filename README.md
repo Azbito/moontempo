@@ -13,8 +13,6 @@
 
 <p>npm i moontempo</p>
 
-#
-
 ## Difference between years
 
 <p>If you want to get the difference between <strong>years, </strong> you should run the function:</p>
@@ -29,15 +27,11 @@
 <p>console.log(getMonthsPassed("YYYY-MM-DD"))</p>
 <p>console.log(getMonthsPassed("2022-10-09")) // returns 6 </p>
 
-#
-
 ## Difference between days
 
 <p>If you want to get the difference between <strong>days,</strong> you should run the function:</p>
 <p>console.log(getDaysPassed("YYYY-MM-DD"))</p>
 <p>console.log(getDaysPassed("2023-03-12")) // returns 30 </p>
-
-#
 
 ## Leap year
 
@@ -57,15 +51,11 @@
 
 <p>npm i moontempo</p>
 
-#
-
 ## Diferença entre anos
 
 <p>Se você quiser pegar a diferença entre <strong>anos, </strong> você deverá rodar esta função:</p>
 <p>console.log(getYearsPassed("AAAA-MM-DD"))</p>
 <p>console.log(getYearsPassed("2004-10-09")) // retorna 18 </p>
-
-#
 
 ## Diferença entre meses
 
@@ -73,15 +63,11 @@
 <p>console.log(getMonthsPassed("AAAA-MM-DD"))</p>
 <p>console.log(getMonthsPassed("2022-10-09")) // returna 6 </p>
 
-#
-
 ## Diferença entre dias
 
 <p>Se você quiser pegar a diferença entre <strong>dias, </strong> você deverá rodar esta função:</p>
 <p>console.log(getDaysPassed("AAAA-MM-DD"))</p>
 <p>console.log(getDaysPassed("2023-03-12")) // retorna 30 </p>
-
-#
 
 ## Ano bisexto
 
@@ -101,15 +87,11 @@
 
 <p>npm i moontempo</p>
 
-#
-
 ## Faire la différence entre années
 
 <p>Si vous souhaitez faire la différence entre <strong>années, </strong>vous devez exécuter cette fonction:</p>
 <p>console.log(getYearsPassed("AAAA-MM-JJ"))</p>
 <p>console.log(getYearsPassed("2004-10-09")) // retourne 18 </p>
-
-#
 
 ## Faire la différence entre mois
 
@@ -117,15 +99,11 @@
 <p>console.log(getMonthsPassed("AAAA-MM-JJ"))</p>
 <p>console.log(getMonthsPassed("2022-10-09")) // retourne 6 </p>
 
-#
-
 ## Faire la différence entre jours
 
 <p>Si vous souhaitez faire la différence entre <strong>jours, </strong>vous devez exécuter cette fonction:</p>
 <p>console.log(getDaysPassed("AAAA-MM-JJ"))</p>
 <p>console.log(getDaysPassed("2023-03-12")) // retourne 30 </p>
-
-#
 
 ## Année bissextile
 
