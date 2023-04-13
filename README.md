@@ -7,7 +7,15 @@
 <img src="https://cdn-icons-png.flaticon.com/512/8281/8281549.png" alt="English" width="40">
 <p>This library will help you to get the difference of time between dates.</p>
 
-### How to use:
+# How to use:
+
+## Installation
+
+<p>npm i moontempo</p>
+
+#
+
+## Difference between years
 
 <p>If you want to get the difference between <strong>years, </strong> you should run the function:</p>
 <p>console.log(getYearsPassed("YYYY-MM-DD"))</p>
@@ -15,19 +23,23 @@
 
 #
 
+## Difference between months
+
 <p>If you want to get the difference between <strong>months,</strong> you should run the function:</p>
 <p>console.log(getMonthsPassed("YYYY-MM-DD"))</p>
 <p>console.log(getMonthsPassed("2022-10-09")) // returns 6 </p>
 
 #
 
+## Difference between days
+
 <p>If you want to get the difference between <strong>days,</strong> you should run the function:</p>
-<p>console.log(getMonthsPassed("YYYY-MM-DD"))</p>
-<p>console.log(getMonthsPassed("2023-03-12")) // returns 30 </p>
+<p>console.log(getDaysPassed("YYYY-MM-DD"))</p>
+<p>console.log(getDaysPassed("2023-03-12")) // returns 30 </p>
 
 #
 
-### Is it leap year?
+## Leap year
 
 <p>To get this information, you should run:</p>
 <p>console.log(isLeapYear(2020)) // returns true</p>
@@ -39,7 +51,15 @@
 
 <p>Esta biblioteca te ajudará a pegar a diferença entre datas.</p>
 
-### Como usar:
+# Como usar:
+
+## Instalação
+
+<p>npm i moontempo</p>
+
+#
+
+## Diferença entre anos
 
 <p>Se você quiser pegar a diferença entre <strong>anos, </strong> você deverá rodar esta função:</p>
 <p>console.log(getYearsPassed("AAAA-MM-DD"))</p>
@@ -47,23 +67,27 @@
 
 #
 
+## Diferença entre meses
+
 <p>Se você quiser pegar a diferença entre <strong>meses, </strong> você deverá rodar esta função:</p>
 <p>console.log(getMonthsPassed("AAAA-MM-DD"))</p>
 <p>console.log(getMonthsPassed("2022-10-09")) // returna 6 </p>
 
 #
 
+## Diferença entre dias
+
 <p>Se você quiser pegar a diferença entre <strong>dias, </strong> você deverá rodar esta função:</p>
-<p>console.log(getMonthsPassed("AAAA-MM-DD"))</p>
-<p>console.log(getMonthsPassed("2023-03-12")) // retorna 30 </p>
+<p>console.log(getDaysPassed("AAAA-MM-DD"))</p>
+<p>console.log(getDaysPassed("2023-03-12")) // retorna 30 </p>
 
 #
 
-### É ano bisexto?
+## Ano bisexto
 
 <p>Para pegar esta informação, você deve rodar esta função:</p>
-<p>console.log(isLeapYear(2020)) // returna true</p>
-<p>console.log(isLeapYear(2023)) // returna false</p>
+<p>console.log(isLeapYear(2020)) // retorna true</p>
+<p>console.log(isLeapYear(2023)) // retorna false</p>
 
 #
 
@@ -71,7 +95,15 @@
 
 <p>Ceci est une bibliothèque qui vous aidera à faire la différence entre deux dates.</p>
 
-### Comment utiliser:
+# Comment utiliser:
+
+## Installation
+
+<p>npm i moontempo</p>
+
+#
+
+## Faire la différence entre années
 
 <p>Si vous souhaitez faire la différence entre <strong>années, </strong>vous devez exécuter cette fonction:</p>
 <p>console.log(getYearsPassed("AAAA-MM-JJ"))</p>
@@ -79,19 +111,23 @@
 
 #
 
+## Faire la différence entre mois
+
 <p>Si vous souhaitez faire la différence entre <strong>mois, </strong>vous devez exécuter cette fonction:</p>
 <p>console.log(getMonthsPassed("AAAA-MM-JJ"))</p>
 <p>console.log(getMonthsPassed("2022-10-09")) // retourne 6 </p>
 
 #
 
+## Faire la différence entre jours
+
 <p>Si vous souhaitez faire la différence entre <strong>jours, </strong>vous devez exécuter cette fonction:</p>
-<p>console.log(getMonthsPassed("AAAA-MM-JJ"))</p>
-<p>console.log(getMonthsPassed("2023-03-12")) // retourne 30 </p>
+<p>console.log(getDaysPassed("AAAA-MM-JJ"))</p>
+<p>console.log(getDaysPassed("2023-03-12")) // retourne 30 </p>
 
 #
 
-### Est-ce une année bissextile ?
+## Année bissextile
 
 <p>Pour savoir de ces information, vous devez exécuter cette fonction:</p>
 <p>console.log(isLeapYear(2020)) // retourne true</p>
