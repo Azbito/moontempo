@@ -1,6 +1,6 @@
 {
-  "name": "moon-tempo",
-  "version": "1.0.0",
+  "name": "moontempo",
+  "version": "1.0.1",
   "description": "This is a library to facilitate you to get the difference between dates.",
   "main": "index.js",
   "scripts": {
